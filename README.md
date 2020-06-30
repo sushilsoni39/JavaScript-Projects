@@ -2,7 +2,10 @@
 
 #Windows Calculator 
 
-Windows Calculator is replica of MS windows calculator with white background. I have followed MVC architecture to create this calculator. 
+Windows Calculator is replica of MS windows calculator with white background. I have followed MVC architecture to create this calculator.
+
+
+
 
 
 #Background And Font Colour Changer
