@@ -1,0 +1,155 @@
+
+
+.calClass{
+  border: 2px solid #5e666b;
+  box-shadow: 0 0 15px 2px rgba(255, 255, 255, 0.4);
+  width: 315px;
+  height: 320px;
+  font-family: 'Open Sans', sans-serif;
+  background:rgba(208,210,212,.6);
+  box-shadow: 0 8px 50px -7px black;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+.displayClass input{
+  
+    
+  
+  font-family: sans-serif;
+  background: rgba(208,210,212,.6);
+  
+  text-align: right;
+  bottom: 0;
+color: #060809;
+font-size: 50px;
+
+}
+
+.buttonClass{
+  display:flex;
+  -ms-flex-flow: nowrap row;
+    -o-flex-flow: nowrap row;
+    flex-flow: nowrap row;
+    
+}
+
+
+.numberClass button  {  
+
+  width:80%;
+  height:250px;
+  display:inline-block;
+  position: relative;
+  float: left;
+  
+  
+  color:#1d344a ;
+  font-size: 25px;
+  background: rgba(254,254,254,0.8);
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin:-0.75px;
+  border-color:#FCFCFC ;
+  transition: all 0s ease-in-out;
+  }
+
+  
+  .numberClass button:hover {
+    background: #cfcfcf;
+    cursor: pointer;
+    box-shadow:0 4px 25px -4px  #565656;
+    }
+
+
+
+
+  
+
+  .operatorClass button{
+    display: inline-block;
+    position: relative;
+    float:right;
+    width: 80px;
+    height: 330px;
+    color:#1d344a ;
+    font-size: 25px;
+    background: #e3e3e3;
+    font-weight: bold;
+    text-align: center;
+    margin:-0.75px;
+    border-color:#FCFCFC ;
+    
+    transition: all 0s ease-in-out;
+    
+    }
+    .operatorClass{
+
+      display: inline-block;
+    position: relative;
+    float:right;
+    left: -2px;
+    width: 80px;
+    height: 210px;
+    color:#1d344a ;
+    font-size: 25px;
+    background: #FCFCFC;
+    font-weight: bold;
+    text-align: center;
+    margin:-0.75px;
+    border-color:#FCFCFC ;
+    
+
+    }
+  
+
+ 
+
+
+
+  .operatorClass button:hover{
+    background: #cfcfcf;
+    cursor: pointer;
+    box-shadow: 0 4px 25px -4px  #565656;
+  }
+
+ 
+.eqlCClass button{
+  display: inline-block;
+    width: 80px;
+    height: 330px;
+    
+    color:#1d344a ;
+    font-size: 20px;
+    background: #FCFCFC;
+    font-weight: bold;
+    text-align: center;
+    margin:-0.75px;
+    border-color:#FCFCFC ;
+    transition: all 0s ease-in-out;
+
+}
+
+
+.operatorClass button:hover{
+  background: #cfcfcf;
+  cursor: pointer;
+}
+
+
+
+#eqlC1{
+  background-color:#85C1E9 ;
+}
+#eqlC1:hover {
+  background-color:#1883d7;
+}
+
+
+
+
+
+
+
+
